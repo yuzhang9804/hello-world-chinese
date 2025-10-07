@@ -1,0 +1,13 @@
+{
+  "name": "hello-world-chinese",
+  "version": "1.0.0",
+  "description": "A beautiful Hello World webpage in Chinese with modern design",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": ["hello-world", "chinese", "static-site"],
+  "author": "Manus AI",
+  "license": "MIT"
+}
